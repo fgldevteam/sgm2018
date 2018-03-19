@@ -1,0 +1,31 @@
+.samurai{
+    background: #EE2424 
+    /* background: #EE2424 url('/svg/smiths_samurai.svg') center center no-repeat; */
+}
+
+.wolfpack{
+    background-color: rgb(36, 36, 36) 
+}
+
+.avengers{
+    background-color: slateblue
+}
+
+
+
+
+.logo img{
+    position: relative;
+    bottom: 25%;
+    left: -25%;
+    height: 150%;
+    width: 150%;
+}
+
+.teamnamelogo img{
+    position: relative;
+    top: 0px;
+    left: 0px;
+    height: 500%;
+    width: 500%;  
+}

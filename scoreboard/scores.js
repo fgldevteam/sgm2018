@@ -13,19 +13,19 @@ var scores = [
     },
     {
         "teamName": "Bradleys Blitz",
-        "class": "blitz"
+        "class": "blitz",
         "logo": "bradleys_blitz.svg",
         "score": "3.91"
     },
     {
         "teamName": "Braunds Beast",
-        "class": "beast"
+        "class": "beast",
         "logo": "braunds_beast.svg",
         "score": "3.87"
     },
     {
         "teamName": "Conways Carnivores",
-        "class": "carnivores"
+        "class": "carnivores",
         "logo": "conways_carnivores.svg",
         "score": "2.78"
     },
@@ -49,13 +49,13 @@ var scores = [
     },
     {
         "teamName": "Friesens Fugitives",
-        "class": "fugitives"
+        "class": "fugitives",
         "logo": "friesens_fugitives.svg",
         "score": "3.14"
     },
     {
         "teamName": "Kotsopoulos Cobras",
-        "class": "cobras"
+        "class": "cobras",
         "logo": "kotsopoulos_cobras.svg",
         "score": "3.98"
     },
@@ -67,85 +67,85 @@ var scores = [
     },
     {
         "teamName": "Mackinnons Mammoths",
-        "class": "mammoths"
+        "class": "mammoths",
         "logo": "mackinnons_mammoths.svg",
         "score": "2.90"
     },
     {
         "teamName": "McColgans Marauders",
-        "class": "marauders"
+        "class": "marauders",
         "logo": "mccolgans_marauders.svg",
         "score": "1.18"
     },
     {
         "teamName": "McEacherns Mustangs",
-        "class": "mustangs"
+        "class": "mustangs",
         "logo": "mceacherns_mustangs.svg",
         "score": "3.41"
     },
     {
         "teamName": "Morales-Ryans Monsters",
-        "class": "monsters"
+        "class": "monsters",
         "logo": "morales-ryans_monsters.svg",
         "score": "3.01"
     },
     {
         "teamName": "Philips Phoenix",
-        "class": "phoenix"
+        "class": "phoenix",
         "logo": "philips_phoenix.svg",
         "score": "2.76"
     },
     {
         "teamName": "Rangers Rampage",
-        "class": "Rampage"
+        "class": "Rampage",
         "logo": "rangers_rampage.svg",
         "score": "2.22"
     },
     {
         "teamName": "Reynolds Rhinos",
-        "class": "rhinos"
+        "class": "rhinos",
         "logo": "reynolds_rhinos.svg",
         "score": "2.90"
     },
     {
         "teamName": "Salewskis Swarm",
-        "class": "swarm"
+        "class": "swarm",
         "logo": "salewskis_swarm.svg",
         "score": "3.87"
     },
     {
         "teamName": "Smiths Samurai",
-        "class": "samurai"
+        "class": "samurai",
         "logo": "smiths_samurai.svg",
         "score": "3.23"
     },
     {
         "teamName": "Toerings Tigers",
-        "class": "tigers"
+        "class": "tigers",
         "logo": "toerings_tigers.svg",
         "score": "3.98"
     },
     {
         "teamName": "Vandewals Vipers",
-        "class": "vipers"
+        "class": "vipers",
         "logo": "vandewals_vipers.svg",
         "score": "3.11"
     },
     {
         "teamName": "Woods Wolfpack",
-        "class": "wolfpack"
+        "class": "wolfpack",
         "logo": "woods_wolfpack.svg",
         "score": "2.89"
     },
     {
         "teamName": "Granges Gladiators",
-        "class": "gladiators"
+        "class": "gladiators",
         "logo": "granges_gladiators.svg",
         "score": "2.67"
     },
     {
         "teamName": "Owens Owls",
-        "class": "owls"
+        "class": "owls",
         "logo": "owens_owls.svg",
         "score": "2.78"
     },

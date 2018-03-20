@@ -1,11 +1,12 @@
 html, body{
     height: 100%;
-    overflow: hidden;
+    /* overflow: hidden; */
     font-size: 10px;   
 }
 
 body{
     background: #000 url('bg.jpg') top left no-repeat;
+    background-attachment: fixed;
 }
 
 .container{

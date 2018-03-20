@@ -1,127 +1,152 @@
 var scores = [
     {
         "teamName": "Allens Avengers",
-        "logo": "logo_goes_here.jpg",
+        "class": "avengers",
+        "logo": "allens_avengers.svg",
         "score": "3.19"
     },
     {
         "teamName": "Bergens Bison",
-        "logo": "logo_goes_here.jpg",
+        "class": "bison",
+        "logo": "bergens_bison.svg",
         "score": "2.89"
     },
     {
         "teamName": "Bradleys Blitz",
-        "logo": "logo_goes_here.jpg",
+        "class": "blitz"
+        "logo": "bradleys_blitz.svg",
         "score": "3.91"
     },
     {
         "teamName": "Braunds Beast",
-        "logo": "logo_goes_here.jpg",
+        "class": "beast"
+        "logo": "braunds_beast.svg",
         "score": "3.87"
     },
     {
         "teamName": "Conways Carnivores",
-        "logo": "logo_goes_here.jpg",
+        "class": "carnivores"
+        "logo": "conways_carnivores.svg",
         "score": "2.78"
     },
     {
         "teamName": "Crouters Cannibals",
-        "logo": "logo_goes_here.jpg",
+        "class": "cannibals"
+        "logo": "crouters_cannibals.svg",
         "score": "2.10"
     },
     {
         "teamName": "Dekkers Dragons",
-        "logo": "logo_goes_here.jpg",
+        "class": "dragons"
+        "logo": "dekkers_dragons.svg",
         "score": "3.9"
     },
     {
         "teamName": "Ehrlicks Enforcers",
-        "logo": "logo_goes_here.jpg",
+        "class": "enforcers"
+        "logo": "ehrlicks_enforcers.svg",
         "score": "1.79"
     },
     {
         "teamName": "Friesens Fugitives",
-        "logo": "logo_goes_here.jpg",
+        "class": "fugitives"
+        "logo": "friesens_fugitives.svg",
         "score": "3.14"
     },
     {
         "teamName": "Kotsopoulos Cobras",
-        "logo": "logo_goes_here.jpg",
+        "class": "cobras"
+        "logo": "kotsopoulos_cobras.svg",
         "score": "3.98"
     },
     {
         "teamName": "Legomskis Lumberjacks",
-        "logo": "logo_goes_here.jpg",
+        "class": "Lumberjacks"
+        "logo": "legomskis_lumberjacks.svg",
         "score": "2.46"
     },
     {
         "teamName": "Mackinnons Mammoths",
-        "logo": "logo_goes_here.jpg",
+        "class": "mammoths"
+        "logo": "mackinnons_mammoths.svg",
         "score": "2.90"
     },
     {
-        "teamName": "McColgansMarauders",
-        "logo": "logo_goes_here.jpg",
+        "teamName": "McColgans Marauders",
+        "class": "marauders"
+        "logo": "mccolgans_marauders.svg",
         "score": "1.18"
     },
     {
         "teamName": "McEacherns Mustangs",
-        "logo": "logo_goes_here.jpg",
+        "class": "mustangs"
+        "logo": "mceacherns_mustangs.svg",
         "score": "3.41"
     },
     {
         "teamName": "Morales-Ryans Monsters",
-        "logo": "logo_goes_here.jpg",
+        "class": "monsters"
+        "logo": "morales-ryans_monsters.svg",
         "score": "3.01"
     },
     {
         "teamName": "Philips Phoenix",
-        "logo": "logo_goes_here.jpg",
+        "class": "phoenix"
+        "logo": "philips_phoenix.svg",
         "score": "2.76"
     },
     {
         "teamName": "Rangers Rampage",
-        "logo": "logo_goes_here.jpg",
+        "class": "Rampage"
+        "logo": "rangers_rampage.svg",
         "score": "2.22"
     },
     {
         "teamName": "Reynolds Rhinos",
-        "logo": "logo_goes_here.jpg",
+        "class": "rhinos"
+        "logo": "reynolds_rhinos.svg",
         "score": "2.90"
     },
     {
         "teamName": "Salewskis Swarm",
-        "logo": "logo_goes_here.jpg",
+        "class": "swarm"
+        "logo": "salewskis_swarm.svg",
         "score": "3.87"
     },
     {
         "teamName": "Smiths Samurai",
-        "logo": "logo_goes_here.jpg",
+        "class": "samurai"
+        "logo": "smiths_samurai.svg",
         "score": "3.23"
     },
     {
         "teamName": "Toerings Tigers",
-        "logo": "logo_goes_here.jpg",
+        "class": "tigers"
+        "logo": "toerings_tigers.svg",
         "score": "3.98"
     },
     {
         "teamName": "Vandewals Vipers",
-        "logo": "logo_goes_here.jpg",
+        "class": "vipers"
+        "logo": "vandewals_vipers.svg",
         "score": "3.11"
     },
     {
         "teamName": "Woods Wolfpack",
-        "logo": "logo_goes_here.jpg",
+        "class": "wolfpack"
+        "logo": "woods_wolfpack.svg",
         "score": "2.89"
     },
     {
         "teamName": "Granges Gladiators",
-        "logo": "logo_goes_here.jpg",
+        "class": "gladiators"
+        "logo": "granges_gladiators.svg",
         "score": "2.67"
     },
     {
         "teamName": "Owens Owls",
-        "logo": "logo_goes_here.jpg",
+        "class": "owls"
+        "logo": "owens_owls.svg",
         "score": "2.78"
     },
 ];

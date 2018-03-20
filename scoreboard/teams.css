@@ -1,25 +1,78 @@
-.samurai{
-    background: #EE2424 
-    /* background: #EE2424 url('/svg/smiths_samurai.svg') center center no-repeat; */
-}
-
-.wolfpack{
-    background-color: rgb(36, 36, 36) 
-}
-
 .avengers{
-    background-color: slateblue
+    background-color: slateblue;
 }
-
-.vipers{
-    background-color: #24928E;
-}
-
 .bison{
     background-color: #932230;
 }
-
-
+.blitz{
+     background-color: #fff;
+}
+.beast{
+     background-color: #fff;
+}
+.carnivores{
+     background-color: #fff;
+}
+.cannibals{
+     background-color: #fff;
+}
+.dragons{
+     background-color: #fff;
+}
+.enforcers{
+     background-color: #fff;
+}
+.fugitives{
+     background-color: #fff;
+}
+.cobras{
+     background-color: #fff;
+}
+.lumberjacks{
+     background-color: #fff;
+}
+.mammoths{
+     background-color: #fff;
+}
+.marauders{
+     background-color: #fff;
+}
+.mustangs{
+     background-color: #fff;
+}
+.monsters{
+     background-color: #fff;
+}
+.phoenix{
+     background-color: #fff;
+}
+.rampage{
+     background-color: #fff;
+}
+.rhinos{
+     background-color: #fff;
+}
+.swarm{
+     background-color: #fff;
+}
+.samurai{
+    background: #ee2424;
+}
+.tigers{
+     background-color: #fff;
+}
+.vipers{
+    background-color: #24928e;
+}
+.wolfpack{
+    background-color: rgb(36, 36, 36);
+}
+.gladiators{
+     background-color: #fff;
+}
+.owls{
+     background-color: #fff;
+ }
 
 .logo img{
     position: relative;

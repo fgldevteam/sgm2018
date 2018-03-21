@@ -14,6 +14,8 @@ scoresReversed.reverse();
 // console.log("--------reversed----------");
 // console.log(scoresReversed);
 
+var h = window.innerHeight;
+var teamH = (h-160)/5;
 
 _.each(scoresReversed, function (element, index, list) {
 
@@ -62,31 +64,20 @@ _.each(scoresReversed, function (element, index, list) {
         break;
     
     }
-    // if(index => 0 && index <= 4){
-    //     currentSlide = "1";
-    // }
-    // if(index > 5 && index <= 9){
-    //     currentSlide = "2";
-    // }
-    // if(index > 10 && index <= 14){
-    //     currentSlide = "3";
-    // }
-    // if(index > 15 && index <= 19){
-    //     currentSlide = "4";
-    // }    
-    // if(index > 20 && index <= 24){
-    //     currentSlide = "5";
-    // }    
+ 
     var selector = "#section" + currentSlide;
     console.log("selector: " + selector);
-    // var output = 'Element: ' + element + ', ' + 'Index: ' + index + ', ' + 'List Length: ' + list.length;
+
     if(!element.colour){
         element.colour = '#000';
     }
-    var teamBox = `<div class="team">` +
+
+    console.log(element.colour);
+
+    var teamBox = `<div class="team" style="height:` + teamH + `px;">` +
                         `<div class="rank">`+ parseInt(index + 1) + `</div>` +
-                        `<div class="logo" style="background: `+element.colour+` url('/svg/`+element.logo+`') center center no-repeat/130%; cover">` +
-                        // `<img src="/svg/`+ element.logo +`" />` +
+                        `<div class="logo" style="background: `+element.colour+` url('/svg/`+element.logo+`') center 50% no-repeat/120%; cover">` +
+                        //`<img src="/svg/`+ element.logo +`" />` +
                         `</div>` +
                         `<div class="teamnamelogo" style="background: `+element.colour+` url('/svg/`+element.logo+`') -400px center no-repeat/220%; cover">` +
                         `<div class="teamname">` +

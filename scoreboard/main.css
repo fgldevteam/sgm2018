@@ -19,8 +19,8 @@ body{
 }
 .team{
     width: 100% !important;
-    height: 18% !important;
-    margin: 10px auto;
+    /* height: 18% !important; */
+    margin: 1% auto;
     border-bottom: 1px solid rgb(148, 148, 148);
     border-right: 1px solid rgb(148, 148, 148);
     border-top: 1px solid rgb(107, 107, 107);
@@ -39,6 +39,7 @@ body{
 
     .rank{
         /* line-height: 200px; */
+        /* display: flex; */
         margin: 0 !important;
         padding: 0 !important;
         text-align: center;
@@ -49,7 +50,6 @@ body{
         font-size: 16em;
         line-height: 160px;
         float: left;
-        display: inline;
         color: #b9b18e;
         /* text-shadow: 2px 2px 0px #ffea8c; */
         text-shadow: 0 1px 0 #ccc, 
@@ -68,14 +68,15 @@ body{
     }
 
     .logo{
+        overflow: hidden;
         float: left;
-        display: inline;
-        margin: 0 !important;
-        padding: 0 !important;
-        text-align: center;
+        display: flex;
+
+        /* display: inline; */
+        /* text-align: center; */
         height: 100%;
         width: 19.5%;
-        
+        min-height: 100%;
         /* margin: 0 !important;
         padding: 0 !important; */
         /* height: auto !important; */
@@ -86,9 +87,10 @@ body{
         /* overflow:hidden; */
         /* display: block; */
         border-right: 4px solid #000;
-        background-size: cover;
-
+    
+    
     }
+
 
     /* .logo img{ display: none;} */
 
@@ -109,7 +111,8 @@ body{
         width: 80%;
         margin: 5% auto;
         height: 40%;
-        padding-top: 30px;
+        padding-top: 25px;
+        /* padding: 20px 0px 10px 0px; */
         /* background-color: aquamarine; */
         background: transparent url('000000-0.95.png') top left repeat;
         -webkit-box-shadow: 1px 1px 30px -8px rgba(255,255,255,1);

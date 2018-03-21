@@ -91,7 +91,36 @@ _.each(scoresReversed, function (element, index, list) {
 
 });
 
+var section1content = $('#section1').html();
+var section2content = $('#section2').html();
+var section4content = $('#section4').html();
+var section5content = $('#section5').html();
+
+$('#section1').empty().html( section5content );
+$('#section2').empty().html( section4content );
+$('#section4').empty().html( section2content );
+$('#section5').empty().html( section1content );
+
+
+//all scores
+_.each(scoresReversed, function (element, index, list) {
+
+    var teamBox = `<div class="team_all">` +
+    `<div class="rank_all">`+ parseInt(index + 1) + `</div>` +
+    `<div class="logo_all" style="background: `+element.colour+` url('/svg/`+element.logo+`') 10% 50% no-repeat/110%; cover">` +
+    //`<img src="/svg/`+ element.logo +`" />` +
+    `</div>` +
+    `<div class="teamnamelogo_all" style="background: `+element.colour+`;">` +
+    `<div class="teamname_all">` +
+    element.teamName + `&nbsp;[ `+element.score+` ]  ` +
+    `</div>` +
+    `</div>` +
+    `</div>`;
+
+    $("#section6").append(teamBox);
+});
+
 
 $(function() {
     $.deck('.slide');
-  });
+});

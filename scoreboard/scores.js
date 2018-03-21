@@ -144,7 +144,7 @@ var scores = [
         "class": "tigers",
         "colour": "#FFA438",
         "logo": "toerings_tigers.svg",
-        "score": "3.98"
+        "score": "3.18"
     },
     {
         "teamName": "Vandewals Vipers",

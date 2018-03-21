@@ -31,19 +31,19 @@ var scores = [
     },
     {
         "teamName": "Crouters Cannibals",
-        "class": "cannibals"
+        "class": "cannibals",
         "logo": "crouters_cannibals.svg",
         "score": "2.10"
     },
     {
         "teamName": "Dekkers Dragons",
-        "class": "dragons"
+        "class": "dragons",
         "logo": "dekkers_dragons.svg",
         "score": "3.9"
     },
     {
         "teamName": "Ehrlicks Enforcers",
-        "class": "enforcers"
+        "class": "enforcers",
         "logo": "ehrlicks_enforcers.svg",
         "score": "1.79"
     },
@@ -57,11 +57,12 @@ var scores = [
         "teamName": "Kotsopoulos Cobras",
         "class": "cobras",
         "logo": "kotsopoulos_cobras.svg",
+        "colour": "#ff5602",
         "score": "3.98"
     },
     {
         "teamName": "Legomskis Lumberjacks",
-        "class": "Lumberjacks"
+        "class": "Lumberjacks",
         "logo": "legomskis_lumberjacks.svg",
         "score": "2.46"
     },
@@ -80,12 +81,14 @@ var scores = [
     {
         "teamName": "McEacherns Mustangs",
         "class": "mustangs",
+        "colour": "#b0c784",
         "logo": "mceacherns_mustangs.svg",
         "score": "3.41"
     },
     {
         "teamName": "Morales-Ryans Monsters",
         "class": "monsters",
+        "color": "#ff3329",
         "logo": "morales-ryans_monsters.svg",
         "score": "3.01"
     },

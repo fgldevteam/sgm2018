@@ -102,7 +102,7 @@ var scores = [
         "class": "monsters",
         "colour": "#ff3329",
         "logo": "morales-ryans_monsters.svg",
-        "score": "3.01"
+        "score": "4.44"
     },
     {
         "teamName": "Philips Phoenix",

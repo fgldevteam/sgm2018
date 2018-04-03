@@ -5,14 +5,14 @@
     height: 100%;
     margin: 0 auto;
     /* float: left; */
-    padding-top: 35px;
+    padding-top: 10px;
 }
 .team_all{
     width: 49% !important;
     /* height: 1%; */
-    height: 60px;
+    height: 50px;
     margin: 0;
-    padding: 5px 0px;
+    padding: 2px 0px;
     /* height: 18% !important; */
     /* margin: 1% auto; */
     /* border-bottom: 1px solid rgb(148, 148, 148);
@@ -96,6 +96,6 @@
         box-shadow: 1px 1px 30px -8px rgba(255,255,255,1); */
         text-align: center;
         font-family: 'Exo';
-        font-size: 23px;
+        font-size: 1.5em;
         text-transform: uppercase;
     }

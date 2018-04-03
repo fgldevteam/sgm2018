@@ -1,7 +1,7 @@
 html, body{
     height: 100%;
     overflow: hidden;
-    font-size: 10px;   
+    font-size: 10px !important;   
     padding: 0;
     margin: 0;
 }
@@ -9,6 +9,7 @@ html, body{
 body{
     background: #000 url('bg.jpg') top left no-repeat;
     background-attachment: fixed;
+    font-size: 10px !important;  
 }
 
 .container{
@@ -41,14 +42,27 @@ body{
         /* line-height: 200px; */
         /* display: flex; */
         margin: 0 !important;
+        
         padding: 0 !important;
+        
         text-align: center;
         height: 100%;
         width: 20%;
         background-color: rgb(15, 15, 15);
         font-family: 'Prompt';
-        font-size: 16em;
-        line-height: 160px;
+        /* font-size: 16em; */
+        /* font-size: 10px; */
+        
+        
+        /*
+        MAC SETTINGS:
+            font-size: 16em;
+            line-height: 160px;
+        */
+
+        font-size: 13em;
+        line-height: 110px;
+
         float: left;
         color: #b9b18e;
         /* text-shadow: 2px 2px 0px #ffea8c; */
@@ -110,8 +124,8 @@ body{
         top: 0px;
         width: 80%;
         margin: 5% auto;
-        height: 40%;
-        padding-top: 25px;
+        height: 30%;
+        padding-top: 10px;
         /* padding: 20px 0px 10px 0px; */
         /* background-color: aquamarine; */
         background: transparent url('000000-0.95.png') top left repeat;
@@ -120,7 +134,7 @@ body{
         box-shadow: 1px 1px 30px -8px rgba(255,255,255,1);
         text-align: center;
         font-family: 'Exo';
-        font-size: 30px;
+        font-size: 2.5em;
         text-transform: uppercase;
     }
 
